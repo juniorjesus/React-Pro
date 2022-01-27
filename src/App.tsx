@@ -9,6 +9,8 @@ function App() {
       
       <CounterBy/>
       <CounterEffect/>
+      <CounterEffect/>
+
     </>
   );
 }
