@@ -31,7 +31,7 @@ export const useCounter = ( { maxCount = 10 })   => {
     return {
 
         counter,
-         elementToAnimate,
+        elementToAnimate,
         handleClick,
 
     }
